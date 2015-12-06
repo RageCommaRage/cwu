@@ -1,11 +1,28 @@
 {
 	"faqs" : { 
-		"example-item1" : {
-			"title" : "Example title",
-			"description" : "Example description",
-			"content": "There are plenty of people who think ducks are too sexy these days.",
-			"created-by" : "Jordan",
-			"date-created" : "16/04/1986"
+		"lastupdated" : "06/12/2015",
+		"items" : {
+			"exampleitem1" : {
+				"title" : "Example title",
+				"description" : "Example description",
+				"createdby" : "Jordan",
+				"date-created" : "16/04/1986",
+				"content": "There are plenty of people who think ducks are too sexy these days."
+			},			
+			"exampleitem2" : {
+				"title" : "Example title 2",
+				"description" : "Example description 2",
+				"createdby" : "Jordan",
+				"date-created" : "16/04/1986",
+				"content": "There are plenty of people who think ducks are too sexy these days."
+			},			
+			"exampleitem3" : {
+				"title" : "Example title 3",
+				"description" : "Example description 3",
+				"createdby" : "Jordan",
+				"date-created" : "16/04/1986",
+				"content": "There are plenty of people who think ducks are too sexy these days."
+			},
 		}
 	}
 }
