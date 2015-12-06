@@ -6,21 +6,21 @@
 			"title": "Example title",
 			"description": "Example description",
 			"createdby": "Jordan",
-			"date-created": "16/04/1986",
+			"datecreated": "16/04/1986",
 			"content": "There are plenty of people who think ducks are too sexy these days."
 		}, {
 			"id": 2,
 			"title": "Example title 2",
 			"description": "Example description 2",
 			"createdby": "Jordan",
-			"date-created": "16/04/1986",
+			"datecreated": "16/04/1986",
 			"content": "There are plenty of people who think ducks are too sexy these days."
 		}, {
 			"id" : 3,
 			"title": "Example title 3",
 			"description": "Example description 3",
 			"createdby": "Jordan",
-			"date-created": "16/04/1986",
+			"datecreated": "16/04/1986",
 			"content": "There are plenty of people who think ducks are too sexy these days."
 		}]
 	}
