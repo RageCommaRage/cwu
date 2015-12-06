@@ -1,0 +1,11 @@
+{
+	"faqs" : { 
+		"example-item1" : {
+			"title" : "Example title",
+			"description" : "Example description",
+			"content": "There are plenty of people who think ducks are too sexy these days.",
+			"created-by" : "Jordan",
+			"date-created" : "16/04/1986"
+		}
+	}
+}
