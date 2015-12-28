@@ -1,0 +1,102 @@
+{
+	"branches": [{
+		"name": "Regional Office",
+		"contact_name": "Carl Webb",
+		"address": "302a Barlow Moor Road, Chorlton Park, Manchester",
+		"postcode": "M21 8AY",
+		"telephone": "0161 860 4067",
+		"facsimile": "0161 860 0573",
+		"email": "northwestregion@cwu.org",
+		"web": "www.cwunorthwest.org"
+	}, {
+		"name": "Bootle IPSL Branch",
+		"contact_name": "",
+		"address": "Girobank Bootle IPSL Branch, Ground Floor, Santander Centre, Bridle Road, Bootle, Merseyside",
+		"postcode": "L30 4AA",
+		"telephone": "0151 210 4058",
+		"facsimile": "",
+		"email": "cwuipsl@hotmail.co.uk",
+		"web": ""
+	}, {
+		"name": "Bootle Financial Services Branch",
+		"contact_name": "",
+		"address": "4 North Admin, Girobank, Bridle Road, Bootle , Merseyside ",
+		"postcode": "L30 4GB",
+		"telephone": "0151 966 2420",
+		"facsimile": "0151 966 2402",
+		"email": "bfsunion@gmail.com",
+		"web": "www.facebook.com/CWUBootleFS"
+	}, {
+		"name": "Lancashire and Cumbria Combined Branch",
+		"contact_name": "",
+		"address": "Telephone House, 170-175 Moor Lane Preston",
+		"postcode": "PR1 1BA",
+		"telephone": "01772 200222",
+		"facsimile": "01772 880055",
+		"email": "secretary@lancscumbria.co.uk",
+		"web": ""
+	}, {
+		"name": "Northern & National Financial Services Branch",
+		"contact_name": "",
+		"address": "Santander UK, 25/732 CWU Northern & National Financial Services Branch, Room 209 Welfare Black, Bridle Road, Bootle, Merseyside",
+		"postcode": "L30 4GB",
+		"telephone": "0151 966 2221",
+		"facsimile": "0151 949 4753",
+		"email": "CWU.NNFSB@santander.co.uk",
+		"web": ""
+	}, {
+		"name": "Isle of Man Telecommunications Branch",
+		"contact_name": "",
+		"address": "Manx Telecom, Douglas North, Greenfield Road, Douglas , Isle of Man",
+		"postcode": "IM99 1HX",
+		"telephone": "01624 636812",
+		"facsimile": "",
+		"email": "bill.hogg@manxtelecom.com",
+		"web": ""
+	}, {
+		"name": "Mersey Branch",
+		"contact_name": "",
+		"address": "PP 505, 5th Floor, Lancaster House , Old Hall Street , Liverpool",
+		"postcode": "L3 9PY",
+		"telephone": "0151 229 7785",
+		"facsimile": "0151 236 4098",
+		"email": "unionoffice@cwumersey.org",
+		"web": "http://www.cwumersey.org/"
+	}, {
+		"name": "Greater Mersey Branch",
+		"contact_name": "",
+		"address": "Telephone Exchange, Foundry Street , St Helens",
+		"postcode": "WA10 1AB",
+		"telephone": "01744 733790",
+		"facsimile": "01744 751503",
+		"email": "angela@cwumswl.org",
+		"web": "http://www.cwumswl.org/"
+	}, {
+		"name": "Manchester Clerical Branch",
+		"contact_name": "",
+		"address": "CWU Office , Longford ATE , 10 King Street , Stretford , Manchester",
+		"postcode": "M32 8AE",
+		"telephone": "0161 865 2820",
+		"facsimile": "",
+		"email": "ManchesterClerical@cwumc.org",
+		"web": "www.cwumc.org"
+	}, {
+		"name": "Manchester Combined Branch",
+		"contact_name": "",
+		"address": "Rusholme ATE , 54 Dickenson Road , Manchester",
+		"postcode": "M14 5HA",
+		"telephone": "0161 231 4999",
+		"facsimile": "0161 600 5220",
+		"email": "branch@cwu-mancom.org",
+		"web": "www.cwu-mancom.org"
+	}, {
+		"name": "Regional Organiser",
+		"contact_name": "Mark Norris",
+		"address": "",
+		"postcode": "",
+		"telephone": "07894461717",
+		"facsimile": "",
+		"email": "",
+		"web": ""
+	}]
+}
