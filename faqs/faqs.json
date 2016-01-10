@@ -1,7 +1,5 @@
 {
-	"faqs": {
-		"lastupdated": "06/12/2015",
-		"items": [{
+	"faqs": [{
 			"id" : 1,
 			"title": "Example title",
 			"description": "Example description",
@@ -22,6 +20,5 @@
 			"createdby": "Jordan",
 			"datecreated": "16/04/1986",
 			"content": "There are plenty of people who think ducks are too sexy these days."
-		}]
-	}
+	}]
 }
