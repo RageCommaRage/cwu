@@ -1,1 +1,1 @@
-Information provide here is in the public domain. 
+Information provided here is in the public domain. 
