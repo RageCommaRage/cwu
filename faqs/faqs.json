@@ -1,24 +1,24 @@
 {
 	"faqs": [{
 			"id" : 1,
-			"title": "Example title",
-			"description": "Example description",
+			"title": "Good reasons to become a union member",
+			"description": "Some reasons to become a union member",
 			"createdby": "Jordan",
 			"datecreated": "16/04/1986",
-			"content": "There are plenty of people who think ducks are too sexy these days."
+			"content": "Content forthcoming."
 		}, {
 			"id": 2,
-			"title": "Example title 2",
-			"description": "Example description 2",
+			"title": "What is an organising union?",
+			"description": "What is an organising union?",
 			"createdby": "Jordan",
 			"datecreated": "16/04/1986",
-			"content": "There are plenty of people who think ducks are too sexy these days."
+			"content": "Content forthcoming."
 		}, {
 			"id" : 3,
-			"title": "Example title 3",
-			"description": "Example description 3",
+			"title": "Trade union recognition",
+			"description": "What is it? ",
 			"createdby": "Jordan",
 			"datecreated": "16/04/1986",
-			"content": "There are plenty of people who think ducks are too sexy these days."
+			"content": "Content forthcoming."
 	}]
 }
